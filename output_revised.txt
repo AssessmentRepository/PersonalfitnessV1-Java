@@ -1,0 +1,12 @@
+
+testDeleteSkillImpl=false
+testGetUserImpl=false
+testSaveTrainerImpl=false
+testDeleteTrainerImpl=false
+testGetTrainerImpl=true
+testSaveAppointmentImpl=false
+testGetAppointmentImpl=true
+testSaveUserImpl=false
+testDeleteUsersImpl=false
+testGetUserImpl=true
+testSaveSkillImpl=false

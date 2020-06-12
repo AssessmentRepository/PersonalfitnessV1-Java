@@ -1,0 +1,7 @@
+in\personalFitness\TestExecutor\TestCaseExecutor.class
+in\personalFitness\TestFuctional\TestController.class
+in\personalFitness\TestBoundary\TestBoundary.class
+in\personalFitness\TestDBConnectivity\TestDBConnection.class
+in\personalFitness\TestFuctional\TestFunctional.class
+in\personalFitness\UtilTestClass\MasterData.class
+in\personalFitness\TestException\TestException.class

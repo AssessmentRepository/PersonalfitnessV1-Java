@@ -1,0 +1,6 @@
+
+testPasswordLength=true
+testUserNameLength=true
+testSkillNameLength=true
+testTrainerNameLength=true
+testActiveUser=true
